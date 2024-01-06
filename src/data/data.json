@@ -1,0 +1,27 @@
+{
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Vyacheslav Shaymardanov",
+      "job": "Основатель и программист"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Jerson Filho",
+      "job": "Дизайнер"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sonny Eryson",
+      "job": "Геймдизайнер и тестировщик"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
