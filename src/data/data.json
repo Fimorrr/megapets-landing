@@ -1,17 +1,17 @@
 {
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/01.png",
       "name": "Vyacheslav Shaymardanov",
       "job": "Основатель и программист"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/02.png",
       "name": "Jerson Filho",
       "job": "Дизайнер"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/03.png",
       "name": "Sonny Eryson",
       "job": "Геймдизайнер и тестировщик"
     }
